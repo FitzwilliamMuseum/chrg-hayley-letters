@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /team/
-title: Meet the Linking Islands of Data team members
+title: Meet the team
 id: team
 ---
 
