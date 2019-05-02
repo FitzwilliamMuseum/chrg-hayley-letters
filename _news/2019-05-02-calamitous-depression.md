@@ -14,9 +14,9 @@ near Chichester
 
 Ignorant of every thing but my own instant & impending Misery, I know neither what I do, when I write, nor can do otherwise than write, because I am bidden to do so. Perfect Despair, the most perfect, that ever possessed any Mind, has had Possession of mine, you know how long, and knowing that, will not need to be Told, who writes.
 
-“I believe," wrote Hayley, "it is hardly possible for Language to describe all the various Emotions, that this dark billet of my desponding Friend produced in my Heart.” He decided to see if – even from a distance – he could effect a cure. 
+“I believe," wrote Hayley, "it is hardly possible for Language to describe all the various Emotions, that this dark billet of my desponding Friend produced in my Heart.” He decided to see if – even from a distance – he could effect a cure.
 
-He thought for a few days before sending his carefully considered response. 
+He thought for a few days before sending his carefully considered response.
 
 An “Ecstatic Vision”
 
@@ -32,13 +32,13 @@ In classic direct marketing style, Hayley added a call-to-action PS:
 
 He then tried to kickstart his project by persuading politicians and church men to write to Cowper. He was careful, however, to keep his overall plot a secret: one he shared only with Cowper's relations and carers, the Reverend John Johnson and Lady Harriot Hesketh. And, after much nagging by Hayley and the judicious application of Lady Hesketh's schmoozing skills, William Cowper began receiving letters of the type Hayley had promised.
 
-The first came from the politician, philanthropist and anti-slave trade campaigner, William Wilberforce. Johnson reported to Cowper’s response to. "The outside,” Cowper said, “tells me, I shall be taken away by Force, & the inside will tell me the Time when”. 
+The first came from the politician, philanthropist and anti-slave trade campaigner, William Wilberforce. Johnson reported to Cowper’s response to. "The outside,” Cowper said, “tells me, I shall be taken away by Force, & the inside will tell me the Time when”.
 
 “It was written in Derision”
 
-The second – a result of Lady Hesketh’s intervention – was sent by the Bishop of London. It detailed the religious enjoyment with which the Bishop read and re-read Cowper's poems. “Never,” said Cowper, “was such a Letter written, never was such a Letter read to a Man so overwhelmed with Despair, as I am — It was written in Derision – I know, & I am sure of it.” 
+The second – a result of Lady Hesketh’s intervention – was sent by the Bishop of London. It detailed the religious enjoyment with which the Bishop read and re-read Cowper's poems. “Never,” said Cowper, “was such a Letter written, never was such a Letter read to a Man so overwhelmed with Despair, as I am — It was written in Derision – I know, & I am sure of it.”
 
-The third and final letter was written by Hayley’s friend Richard Watson, the Bishop of Llandaff. It arrived in October 1797, as Cowper was reading a book of the Bishop’s sermons. He did not react to this letter in the same way, but just looked at it in silence. This left Johnson trying to link it with the previous two and Hayley’s original with as much subtlety as he could muster (which, it turned out, was not very much at all). 
+The third and final letter was written by Hayley’s friend Richard Watson, the Bishop of Llandaff. It arrived in October 1797, as Cowper was reading a book of the Bishop’s sermons. He did not react to this letter in the same way, but just looked at it in silence. This left Johnson trying to link it with the previous two and Hayley’s original with as much subtlety as he could muster (which, it turned out, was not very much at all).
 
 And that was it for letters. Hayley’s focus switched to other concerns: his first wife Eliza (from whom he had separated early in 1789) died in November, and Hayley had to sort out her effects. Then, early in 1798, Hayley’s adored son Tom, who was apprenticed to the sculptor John Flaxman, was sent home to Sussex, ill. Over the next two years his condition deteriorated slowly and painfully: he died on May 2nd 1800; exactly one week after Cowper.
 
@@ -63,21 +63,23 @@ So weeps the Nymph, who, when long Storms are fled
 Welcomes from the Sea her Bosom’s rescued Wealth
 To Life, to Joy, to Glory and to Love.”
 
- 
-From Hayley’s final letter to Cowper, dated 1 February 1800, 
+![image of sonnet](/images/forblog/sonnettoCowper.jpg)
+
+From Hayley’s final letter to Cowper, dated 1 February 1800,
 Fitzwilliam Museum, Hayley/XXVIII/14
 Note the smudging where Hayley writes “Ecstatic Tears I on the Paper shed”.
 
 It's hardly great poetry. But, like a magic mirror, the last three lines seem to reflect a happy ending onto the final stanza of the last original poem Cowper wrote: "The Cast-away" (March 1799), which was first published in Hayley's biography of his friend:
 
-No voice divine the storm allay'd,
-   No light propitious shone;
-When, snatch'd from all effectual aid,
-   We perish'd, each alone:
-But I beneath a rougher sea,
+
+No voice divine the storm allay'd,  
+&nbsp;&nbsp;No light propitious shone;  
+When, snatch'd from all effectual aid,  
+&nbsp;&nbsp;We perish'd, each alone:  
+But I beneath a rougher sea,  
 And whelm'd in deeper gulphs than he.
+
 
 What’s uncanny about this is that it's almost certain that Hayley didn't see “The Cast-Away” until January 1801.
 
 A fortnight after Hayley received the letter that so fed his optimism, Cowper fell ill. A couple of months later, he was dead.
-
