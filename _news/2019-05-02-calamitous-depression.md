@@ -11,8 +11,10 @@ On Tuesday, June 20th 1797, the writer and scholar William Hayley received this 
 William Hayley Esqr  
 Eartham  
 near Chichester  
+{: .blockquote }
 
 >Ignorant of every thing but my own instant & impending Misery, I know neither what I do, when I write, nor can do otherwise than write, because I am bidden to do so. Perfect Despair, the most perfect, that ever possessed any Mind, has had Possession of mine, you know how long, and knowing that, will not need to be Told, who writes.
+{: .blockquote }
 
 “I believe," wrote Hayley, "it is hardly possible for Language to describe all the various Emotions, that this dark billet of my desponding Friend produced in my Heart.” He decided to see if – even from a distance – he could effect a cure.
 
