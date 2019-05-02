@@ -64,7 +64,7 @@ So weeps the Nymph, who, when long Storms are fled
 Welcomes from the Sea her Bosom’s rescued Wealth  
 To Life, to Joy, to Glory and to Love.”
 
-![image of sonnet](/images/forblog/sonnettoCowper.jpg)
+![image of sonnet](/images/forblog/sonnettoCowper.jpg){: .image-fluid }
 
 From Hayley’s final letter to Cowper, dated 1 February 1800,
 Fitzwilliam Museum, Hayley/XXVIII/14
