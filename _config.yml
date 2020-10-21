@@ -60,6 +60,8 @@ collections:
       output: true
    team:
       output: true
+   conference:
+      output: true
 
 
 mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c7549a27ffb3357&amp;id=741e719b5c
@@ -67,6 +69,7 @@ mailchimp-list: https://cam.us17.list-manage.com/subscribe/post?u=f30da66801c754
 feed:
   collections:
     - news
+    - conference
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
