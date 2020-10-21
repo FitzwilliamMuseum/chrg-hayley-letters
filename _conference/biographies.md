@@ -18,7 +18,7 @@ This conference was originally his idea.
 
 Lisa is Visiting Research Fellow at the Centre for Life-Writing Research at King’s College London, External Research Consultant at the Fitzwilliam Museum, University of Cambridge and Research Fellow in Future Thinking at the University of Birmingham. Her PhD in Digital Writing by Practice (Bath Spa, 2018) comprised an interactive biography of William Hayley, with whom she has had an unhealthy, yet productive obsession since the mid-1990s.
 
-She has been planning this conference since Mark Crosby suggested it at the William Cowper day run by the Cowper & Newton Museum https://cowperandnewtonmuseum.org.uk/ in the summer of 2017, and is hugely excited that it’s actually happening!
+She has been planning this conference since Mark Crosby suggested it at the [William Cowper day](https://cowperandnewtonmuseum.org.uk/) run by the Cowper & Newton Museum  in the summer of 2017, and is hugely excited that it’s actually happening!
 
 ### Sarah Haggarty
 
@@ -38,12 +38,12 @@ Susan Matthews is the author of the monograph Blake, Sexuality and Bourgeois Pol
 
 ### Jason Whittaker
 
-Jason Whittaker is Head of the School of English and Journalism at the University of Lincoln. He has written extensively on William Blake and his biography – Divine Images: The Life and Work of William Blake – will be published by Reaktion Books in January 2021. http://www.reaktionbooks.co.uk/display.asp?ISB=9781789142877
+Jason Whittaker is Head of the School of English and Journalism at the University of Lincoln. He has written extensively on William Blake and his biography – [Divine Images: The Life and Work of William Blake](http://www.reaktionbooks.co.uk/display.asp?ISB=9781789142877) – will be published by Reaktion Books in January 2021.
 
 ### Amina Wright
 
 Amina Wright has worked for three decades as a curator of historic art collections, exhibitions and interiors, specialising in eighteenth-century British art and Old Master paintings.    Previous exhibitions have included Stubbs and the Wild, Joseph Wright of Derby: Bath and Beyond, and Pictures of Innocence: Children in Portraits from Hogarth to Lawrence. She is currently Senior Curator of the Faith Museum at The Auckland Project and has recently completed an MA in Christianity & the Arts at King's College London.
 
-Her latest book Thomas Lawrence: Coming of Age has just been published by Bloomsbury https://www.bloomsbury.com/uk/thomas-lawrence-9781781300947/
+Her latest book [Thomas Lawrence: Coming of Age has just been published by Bloomsbury](https://www.bloomsbury.com/uk/thomas-lawrence-9781781300947/)
 
-She is the author of Joseph Wright of Derby, Bath and Beyond https://www.bloomsbury.com/uk/joseph-wright-of-derby-9781781300213/.
+She is the author of [Joseph Wright of Derby, Bath and Beyond](https://www.bloomsbury.com/uk/joseph-wright-of-derby-9781781300213/).
