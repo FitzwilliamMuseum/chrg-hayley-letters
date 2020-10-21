@@ -1,30 +1,31 @@
 .head {
-    background-image: url(../images/layouts/despot.jpg);
-    background-position: 50% 80%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top: 8rem;
-    }
+  background-image: url(../images/layouts/despot.jpg);
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8rem;
+}
 
 footer, .chip-icon {
-    background-color: #731200;
+  background-color: #731200;
 }
 
 .bg-black {
-    background-color: #000000!important;
+  background-color: #000000!important;
 }
 
 body {
-    background-color: #dcd9d945;
+  background-color: #dcd9d945;
+  font-size: 1.05rem;
 }
 
 video {
 
-    object-fit: cover;
+  object-fit: cover;
 }
 
 .share a {
-    color: #fff;
+  color: #fff;
 }
 
 .cd-nugget-info {
@@ -72,7 +73,7 @@ video {
   bottom: 40px;
   right: 10px;
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   /* image replacement properties */
   overflow: hidden;
   text-indent: 100%;
@@ -125,72 +126,72 @@ video {
 
 
 .thumb-post img {
-    object-fit: cover;
+  object-fit: cover;
 }
 
 .carousel-control-prev, .carousel-control-next, .carousel-indicators li {
-    background-color: hsla(0, 93%, 31%, 0.98)
+  background-color: hsla(0, 93%, 31%, 0.98)
 }
 #sponsors img {
-    height: 50px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+  height: 50px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .carousel-item img {
-   min-width: auto;
-   max-height:auto;
- }
+  min-width: auto;
+  max-height:auto;
+}
 
 .badge-wine {
-    background-color: #731200;
-    color: #fff;
-    padding: 10px;
+  background-color: #731200;
+  color: #fff;
+  padding: 10px;
 }
 
 .btn-wine {
-    background-color: #731200;
-    color: #fff;
-    padding: 10px;
-}}
+  background-color: #731200;
+  color: #fff;
+  padding: 10px;
+  }}
 
-.max-coffins {
+  .max-coffins {
     max-width: 100%;
-}
-.share li {
+  }
+  .share li {
     list-style: none;
     margin-left: -40px;
-}
+  }
 
-#error {
+  #error {
     object-fit: cover;
     width: 100%;
-}
+  }
 
-.contact .btn {
+  .contact .btn {
     background-color: #731200;
     color: #fff;
-}
+  }
 
-label.cm-app-label {
+  label.cm-app-label {
     color: white;
-}
-.btn {
+  }
+  .btn {
     white-space:normal !important;
     word-wrap: break-word;
-}
-.navbar nav {
-  display: inline;
-}
-@media  (max-width : 480px) {
-  .shorten-words {
-    max-width: 200px;
   }
-}
+  .navbar nav {
+    display: inline;
+  }
+  @media  (max-width : 480px) {
+    .shorten-words {
+      max-width: 200px;
+    }
+  }
 
-.shareTwitter a {
+  .shareTwitter a {
     color: #000;
-}
-.navbar {
-  z-index: 2147483647;
-}
+  }
+  .navbar {
+    z-index: 2147483647;
+  }
