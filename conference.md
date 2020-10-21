@@ -20,7 +20,7 @@ Join us online on November 12 and 13 for [a series of presentations](/conference
 
 All welcome. 
 
-Book to join us on Zoom, November 12-13. No charge, but donations welcome.
+[Book to join us](https://tickets.museums.cam.ac.uk/hayley2020) on Zoom, November 12-13. No charge, but donations welcome.
 
 NB: Pre-recorded  material will be available on a password-protected site to view from Thursday 5 November.
 
