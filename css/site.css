@@ -195,3 +195,14 @@ video {
   .navbar {
     z-index: 2147483647;
   }
+
+  .table {
+    background-color: #fff;
+    border: 0;
+    margin-bottom: 1rem;
+    max-width: 100%;
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+}
