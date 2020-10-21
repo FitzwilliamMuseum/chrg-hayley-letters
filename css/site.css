@@ -196,7 +196,7 @@ video {
     z-index: 2147483647;
   }
 
-  .table {
+table {
     background-color: #fff;
     border: 0;
     margin-bottom: 1rem;
