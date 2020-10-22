@@ -52,4 +52,6 @@ Online, on zoom. Link available after booking
 * Jason Whittaker
 * Amina Wright
 
+[Speaker Biographies](/_conference/biographies.md)
+
 *depending on your location
