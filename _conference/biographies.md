@@ -41,6 +41,8 @@ Alexandra Harris is a Professorial Fellow in English at the University of Birmin
 
 ### Alex Kidson
 
+![Alex Kidson](/images/conference/Alex_Kidson_cropped_small.jpg){:class="img-fluid"}
+
 Alex Kidson is the author of _George Romney: A Complete Catalogue of His Paintings_ (Yale University Press). He curated the 2002 bi-centenary exhibition George Romney 1734–1802, (Walker Art Gallery, Liverpool, National Portrait Gallery, London, the Huntington, California), and is the foremost authority on the artist's life and works.
 
 ### Susan Matthews
