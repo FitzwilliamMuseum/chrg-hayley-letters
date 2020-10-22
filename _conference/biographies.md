@@ -51,7 +51,7 @@ Susan Matthews is the author of the monograph _Blake, Sexuality and Bourgeois Po
 
 ### Jason Whittaker
 
-!{Jason Whittaker](/images/conference/Jason_Whittaker.jpg){:class="img-fluid"}
+![Jason Whittaker](/images/conference/Jason_Whittaker.jpg){:class="img-fluid"}
 
 Jason Whittaker is Head of the School of English and Journalism at the University of Lincoln. He has written extensively on William Blake and his biography – [_Divine Images: The Life and Work of William Blake_](http://www.reaktionbooks.co.uk/display.asp?ISB=9781789142877) – will be published by Reaktion Books in January 2021.
 
