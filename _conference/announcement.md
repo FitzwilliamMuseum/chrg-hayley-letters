@@ -4,6 +4,7 @@ title: "Hayley2020: a Fitzwilliam Museum conference"
 author: Lisa Gee
 permalink: /conference/hayley2020
 ---
+![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}
 
 Convened to mark the bicentenary of his death, Hayley2020 is the first ever
 conference dedicated to writer, scholar and amateur doctor William Hayley
