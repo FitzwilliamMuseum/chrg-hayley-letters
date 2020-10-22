@@ -5,8 +5,6 @@ permalink: /conference/biographies
 author: Lisa Gee
 ---
 
-![Hayley2020 logo](chrg-hayley-letters/images/conference/Hayley2020 logo v1.jpeg){:class="img-fluid"}
-
 ### David Bindman
 
 David was Durning-Lawrence Professor of the History of Art and taught courses mainly on British 18th century and European Romantic art, specialising in caricature and the history of printmaking, and questions of national and racial identity. He was educated at Oxford, Harvard and London universities and has taught frequently in the US. He has written several books and articles on William Hogarth and William Blake, and on the British response to the French Revolution (_Shadow of the Guillotine_, 1989), and on the sculptors Roubiliac and Flaxman. His most recent book is entitled _Ape to Apollo: Aesthetics, Human Variety and Race in the 18th Century_ for Reaktion Books.
