@@ -5,7 +5,7 @@ permalink: /conference/biographies
 author: Lisa Gee
 ---
 
-[Hayley2020 logo](chrg-hayley-letters/images/conference/Hayley2020 logo v1.jpeg){:class="img-fluid"}
+![Hayley2020 logo](chrg-hayley-letters/images/conference/Hayley2020 logo v1.jpeg){:class="img-fluid"}
 
 ### David Bindman
 
