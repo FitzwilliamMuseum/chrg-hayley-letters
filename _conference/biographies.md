@@ -43,6 +43,8 @@ Jason Whittaker is Head of the School of English and Journalism at the Universit
 
 ### Amina Wright
 
+![Amina Wright](/images/conference/Amina_Wright_smaller.jpg){:class="img-fluid"}
+
 Amina Wright has worked for three decades as a curator of historic art collections, exhibitions and interiors, specialising in eighteenth-century British art and Old Master paintings.    Previous exhibitions have included Stubbs and the Wild, Joseph Wright of Derby: Bath and Beyond, and Pictures of Innocence: Children in Portraits from Hogarth to Lawrence. She is currently Senior Curator of the Faith Museum at The Auckland Project and has recently completed an MA in Christianity & the Arts at King's College London.
 
 Her latest book [Thomas Lawrence: Coming of Age has just been published by Bloomsbury](https://www.bloomsbury.com/uk/thomas-lawrence-9781781300947/)
