@@ -9,4 +9,4 @@ layout: team
 External Consultant, working with the Department of Manuscripts and Printed Books, Fitzwilliam Museum
 
 
-Lisa Gee’s PhD involved making a digital biography of William Hayley (1745-1820), designed so readers get to meet him in a way that mimics encountering him in real life. She is the author of Stage Mum and Friends: Why Men and Women Are From the Same Planet, and the editor of Bricks Without Mortar: the selected poems of Hartley Coleridge.
+Lisa Gee’s PhD involved making a digital biography of William Hayley (1745-1820), designed so readers get to meet him in a way that mimics encountering him in real life. She is the author of _Stage Mum_ and _Friends: Why Men and Women Are From the Same Planet_, and the editor of _Bricks Without Mortar: the selected poems of Hartley Coleridge_.
