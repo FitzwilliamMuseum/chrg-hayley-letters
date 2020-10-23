@@ -58,12 +58,12 @@ Online, on zoom. Link available after booking
 
 With thanks to:
 
-![Hayley2020 logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
+![Paul Mellon Centre logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
 
 
 
-![Hayley2020 logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
+![Association for Art History logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
 
 
 
-![Hayley2020 logo](/images/conference/CVC.jpg){:class="img-fluid"}
+![Centre for Visual Culture logo](/images/conference/CVC.jpg){:class="img-fluid"}
