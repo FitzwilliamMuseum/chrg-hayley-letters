@@ -10,7 +10,7 @@ author: Lisa Gee
 
 ![David Bindman](/images/conference/David_Bindman_smaller.jpg){:class="img-fluid"}
 
-David was Durning-Lawrence Professor of the History of Art and taught courses mainly on British 18th century and European Romantic art, specialising in caricature and the history of printmaking, and questions of national and racial identity. He was educated at Oxford, Harvard and London universities and has taught frequently in the US. He has written several books and articles on William Hogarth and William Blake, and on the British response to the French Revolution (_Shadow of the Guillotine_, 1989), and on the sculptors Roubiliac and Flaxman. His most recent book is entitled _Ape to Apollo: Aesthetics, Human Variety and Race in the 18th Century_ for Reaktion Books.
+David Bindman is Emeritus Professor of the History of Art, University College London. He has written books and exhibition catalogues on Blake, Hogarth, Flaxman and 18th-century sculpture. His more recent works are: _Ape to Apollo: Aesthetics and the Idea of Race, 1700-1800_, Reaktion Books and Cornell University Press, 2002 and _Warm Flesh, Cold Marble: Canova, Thorvaldsen and their Critics_, Yale University Press, 2015. He is General Editor (with Henry Louis Gates, Jr.) and main contributor to _The Image of the Black in Western Art_, 11 volumes. He is working on an exhibition
 
 ### Mark Crosby
 
