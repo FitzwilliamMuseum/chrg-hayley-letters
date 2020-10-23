@@ -66,3 +66,14 @@ Amina Wright has worked for three decades as a curator of historic art collectio
 Her latest book [_Thomas Lawrence: Coming of Age_ has just been published by Bloomsbury](https://www.bloomsbury.com/uk/thomas-lawrence-9781781300947/)
 
 She is the author of [_Joseph Wright of Derby, Bath and Beyond_](https://www.bloomsbury.com/uk/joseph-wright-of-derby-9781781300213/).
+
+![Paul Mellon Centre logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
+
+
+
+![Centre for Visual Culture logo](/images/conference/CVC.jpg){:class="img-fluid"}
+
+
+
+![Association for Art History logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
+
