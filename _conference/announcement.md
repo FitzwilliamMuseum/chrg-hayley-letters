@@ -55,3 +55,15 @@ Online, on zoom. Link available after booking
 [Speaker Biographies](/_conference/biographies.md)
 
 *depending on your location
+
+With thanks to:
+
+![Hayley2020 logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
+
+
+
+![Hayley2020 logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
+
+
+
+![Hayley2020 logo](/images/conference/CVC.jpg){:class="img-fluid"}
