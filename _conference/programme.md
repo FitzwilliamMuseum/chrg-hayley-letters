@@ -5,6 +5,8 @@ author: Lisa Gee
 permalink: /conference/programme
 ---
 
+![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}
+
 This programme is still a draft working copy, so please check back between now and the conference for up-to-date details.
 
 ### Timings
@@ -34,3 +36,13 @@ This programme is still a draft working copy, so please check back between now a
 |   17.05-17.45   |   Future scholarship (plenary)                                                                     |   New collaborations, action planning (chaired by Lisa)                                                                                                                                                                                                                                                                                                                    |
 |   17.50-18.00   |   Thank you/goodbyes                                                                               |                                                                                                                                                                                                                                                                                                                                                                            |
 {: .table }
+
+![Paul Mellon Centre logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
+
+
+
+![Centre for Visual Culture logo](/images/conference/CVC.jpg){:class="img-fluid"}
+
+
+
+![Association for Art History logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
