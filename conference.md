@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hayley 2020: a Fitzwilliam Museum conference"
+title: "Hayley2020: a Fitzwilliam Museum conference"
 description: Announcement of the Hayley conference
 permalink: /conference
 ---
@@ -51,6 +51,16 @@ Online, on zoom. Link available after booking
 * Jason Whittaker
 * Amina Wright
 
-[Biographies for speakers](/conference/biographies)
+[Speaker bios](/conference/biographies)
 
 *depending on your location
+
+![Paul Mellon Centre logo](/images/conference/PMC_logo_black.png){:class="img-fluid"}
+
+
+
+![Centre for Visual Culture logo](/images/conference/CVC.jpg){:class="img-fluid"}
+
+
+
+![Association for Art History logo](/images/conference/AssociationForArtHistory_Logo.jpg){:class="img-fluid"}
