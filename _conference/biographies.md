@@ -8,7 +8,7 @@ author: Lisa Gee
 
 ### David Bindman
 
-![David Bindman](/images/conference/David_Bindman_smaller.jpg){:class="img-fluid"}
+![David Bindman](/images/conference/David_Bindman_new.jpg){:class="img-fluid"}
 
 David Bindman is Emeritus Professor of the History of Art, University College London. He has written books and exhibition catalogues on Blake, Hogarth, Flaxman and 18th-century sculpture. His more recent works are: _Ape to Apollo: Aesthetics and the Idea of Race, 1700-1800_, Reaktion Books and Cornell University Press, 2002 and _Warm Flesh, Cold Marble: Canova, Thorvaldsen and their Critics_, Yale University Press, 2015. He is General Editor (with Henry Louis Gates, Jr.) and main contributor to _The Image of the Black in Western Art_, 11 volumes. He is working on an exhibition
 
