@@ -16,7 +16,7 @@ David Bindman is Emeritus Professor of the History of Art, University College Lo
 
 ![Mark Crosby](/images/conference/Mark_crosby_smaller.jpg){:class="img-fluid"}
 
-Mark’s main area of research is eighteenth-century and Romantic-period literature and art. He is particularly interested in how authors and artists negotiated the various economies of patronage operating during the long eighteenth-century. Mark co-authored, with Robert N. Essick, the first critical edition of William Blake’s Genesis Manuscript (University of California Press, 2012) and co-edited _Re-envisioning Blake_ (Palgrave 2012). He has published widely on Blake and is the bibliographer and associate editor for the William Blake Archive http://www.blakearchive.org.
+Mark Crosby is associate professor in the Department of English and Director of the Digital Humanities Center at Kansas State University. His main area of research is eighteenth-century and Romantic-period literature and art. He is particularly interested in how authors and artists negotiated the various economies of patronage operating during the long eighteenth-century. Mark co-authored, with Robert N. Essick, the first critical edition of William Blake’s Genesis Manuscript (University of California Press, 2012) and co-edited _Re-envisioning Blake_ (Palgrave 2012). He has published widely on Blake and is the bibliographer and associate editor for the William Blake Archive http://www.blakearchive.org.
 This conference was originally his idea.
 
 ### Lisa Gee
