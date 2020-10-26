@@ -11,9 +11,11 @@ This programme is still a draft working copy, so please check back between now a
 
 ### Timings
 
-* 14.45-18.00 GMT Thursday 12 November
-* Conference virtual picnic lunch/breakfast  13:00-14.30
-* Friday 13 November 15.00-18.00
+* *Thursday 12 November* 
+* Talks and discussions: 14.45-18.00 GMT 
+* *Friday 13 November* 
+* Conference virtual picnic lunch/breakfast/midnight feast:  13:00-14.30 GMT
+* Talks and discussions: 15.00-18.00 GMT
 
 ### Schedule
 
