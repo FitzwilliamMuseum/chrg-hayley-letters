@@ -29,11 +29,11 @@ NB: Pre-recorded  material will be available on a password-protected site to vie
 
 ### When
 
-14.45-18.00 GMT Thursday 12 November
+14.45-18.00 GMT Thursday 12 November: 
 
-Conference zoom picnic lunch/breakfast/midnight feast* 13:00-14.30 GMT Friday 13 November
+13:00-14.30 GMT Friday 13 November: Conference zoom picnic lunch/breakfast/midnight feast* 
 
-15.00-18.00 GMT Friday 13 November.
+15.00-18.00 GMT Friday 13 November: Presentations & discussions.
 
 ### Where
 
