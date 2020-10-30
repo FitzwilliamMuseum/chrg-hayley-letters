@@ -5,7 +5,7 @@ author: Lisa Gee
 permalink: /conference/programme
 ---
 
-![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}
+[![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}](/conference)
 
 This programme is still a draft working copy, so please check back between now and the conference for up-to-date details.
 
