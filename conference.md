@@ -43,6 +43,7 @@ Online, on zoom. Link available after booking
 
 * David Bindman
 * Mark Crosby
+* George Doji
 * Lisa Gee
 * Sarah Haggarty
 * Alexandra Harris
