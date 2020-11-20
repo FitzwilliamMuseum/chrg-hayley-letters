@@ -8,11 +8,11 @@ author: Lisa Gee
 ![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}
 
 
-It’s a week since [Hayley2020](chrg-hayley-letters/conference.md), and I’ve almost recovered… Almost… which means it’s time for a quick reflect (if such a thing is possible, given the nature of reflection) and, more important, for a ton of thank yous. So…
+It’s a week since [Hayley2020](https://hayley.fitzmuseum.cam.ac.uk/conference), and I’ve almost recovered… Almost… which means it’s time for a quick reflect (if such a thing is possible, given the nature of reflection) and, more important, for a ton of thank yous. So…
 
 #### Thank you to…
 
-**Presenters** (in alphabetical order: [see our presenter bios page](/conference/biographies) for their details) 
+**Presenters** (in alphabetical order: [see our presenter bios page](https://hayley.fitzmuseum.cam.ac.uk/conference/biographies) for their details) 
 
 David Bindman, Mark Crosby, George Doji, Sarah Haggarty, Alexandra Harris, Alex Kidson, Susan Matthews, Jason Whittaker, Amina Wright
 
