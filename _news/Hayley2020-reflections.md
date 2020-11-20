@@ -91,3 +91,7 @@ Thanks again to everyone who contributed to making Hayley2020 – the first EVER
 Lisa
 
 > "Many thanks indeed for a fascinating conference.  I particularly liked the films (as opposed to watching reams of Powerpoints one after the other!) and enjoyed the discussions very much too.  It was great to be able to learn about Hayley and the context of his times from such a good range of experts …  Thanks for a really stimulating event – a highlight in a rather dreary, upsetting time."
+
+PS: this is my new favourite thing
+
+![Tweet by BLake Quarterly](/images/forblog/Hayley-quarterly-smaller.jpg){:class="img-fluid"}
