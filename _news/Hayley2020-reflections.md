@@ -57,7 +57,7 @@ Watching the videos and being able to discuss them with the presenters – most 
 
 #### Some themes
 
-Obviously, in two half day sessions, we could only scratch the surface of all the aspects of Hayley’s life, work and circle. In particular, missed a focus on Hayley’s work with, and support for, women writers, which we would have included had not two presenters needed to withdraw for Covid-related reasons. However, that did emerge in discussion, as did the following themes, amongst others:
+Obviously, in two half day sessions, we could only scratch the surface of all the aspects of Hayley’s life, work and circle. In particular, we missed a focus on Hayley’s work with, and support for, women writers, which we would have included had not two presenters needed to withdraw for Covid-related reasons. However, that did emerge in discussion, as did the following themes, amongst others:
 
 * Patronage: from exploring the extent to which Hayley acted as a patron, to asking what counts as patronage and interrogating the relationship between patronage and commerce?
 * Hayley’s relationships with artists: how did issues of class play out in these? And exactly *how* annoying could he be?
