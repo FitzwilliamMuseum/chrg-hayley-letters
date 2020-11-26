@@ -8,31 +8,31 @@ author: Lisa Gee
 ![Hayley2020 logo](/images/conference/Hayley2020_logo_small.jpeg){:class="img-fluid"}
 
 
-It’s a week since [Hayley2020](https://hayley.fitzmuseum.cam.ac.uk/conference), and I’ve almost recovered… Almost… which means it’s time for a quick reflect (if such a thing is possible, given the nature of reflection) and, more important, for a ton of thank yous. So…
+It’s a fortnight since [Hayley2020](https://hayley.fitzmuseum.cam.ac.uk/conference), and I’ve almost recovered… Almost… which means it’s time for a quick reflect (if a *quick* reflect is possible, given the nature of reflection).
 
-#### Thank you to…
-
-**Presenters** (in alphabetical order: [see our presenter bios page](https://hayley.fitzmuseum.cam.ac.uk/conference/biographies) for their details) 
-
-David Bindman, Mark Crosby, George Doji, Sarah Haggarty, Alexandra Harris, Alex Kidson, Susan Matthews, Jason Whittaker, Amina Wright
-
-**Co-convenors and chairs** (in reverse alphabetical order. Just to mix things up a bit) 
-
-Suzanne Reynolds, Mark Crosby (again) and Naomi Billingsley.
-
-**Colleagues at the Fitzwilliam Museum without whom Hayley2020 wouldn’t have happened** (in no particular order. Confused yet?)
-
-Dan Pett for our web presence and sage advice throughout; Jo Vine for funding applications; Rachel Sinfield for comms work; Grace Hadley for sorting bookings; Amanda Bluck for setting us up to Zoom
-
-**Our funders** 
-
-[The Paul Mellon Centre](https://www.paul-mellon-centre.ac.uk/) and the [Association for Art History](https://forarthistory.org.uk/). 
-
-And, of course, **Everyone who registered**, joined us for our live sessions and/or watched the on-demand video presentations, as well as Dora Gee for video transcriptions, other admin support and general care of her rather over-excited mother (ie: me).
+The conference covered a lot of ground. We started on November 12th – the bicentenary of Hayley's death – with what, in pre-Covid days, was planned as our public lecture. Alex Kidson – the world expert on George Romney, explored Romney's friendship with William Hayley, through a selection of the artworks that arose from, or were impacted by, their relationship. 
 
 ![Image of slide from Hayley2020 videos on demand](/images/forblog/Hayley2020_Screenshot_GoogleSlide.jpg){:class="img-fluid"}
 
 *image of one of our on-demand video presentation slides*
+
+After questions and a quick break, we segued into a series of presentations on Hayley in his context. Alexandra Harris spoke on Hayley's grounds at Eartham House, situating his landscaping works in the artistic and social contexts of his time. Susan Matthews discussed Hayley's writing for and about women, focusing on *The Triumphs of Temper* and *A philosophical, historical, and moral essay on old maids. By a friend to the sisterhood.* and Amina Wright on the relationship between Hayley and Joseph Wright of Derby. Then – after another break – George Doji and I demo-ed progress on the pilot of *A Museum of Relationships* (aka *AMoR*), the digital edition of Hayley's correspondence we've been working on at the Fitzwilliam Museum over the past year or so (longer than originally intended because of the pandemic).
+
+![Image of *A Museum of Relationships* (*AMoR*) Omeka record](/images/forblog/Omeka-item.jpg){:class="img-fluid"}
+
+*Image of one of the *A Museum of Relationships* (*AMoR*) records in Omeka*
+
+#### *A Museum of Relationships* (*AMoR*) pilot demo
+
+It was great fun finally to have the opportunity to show off the work we've done to digitise, transcribe, annotate and link selected letters from the Fitzwilliam's archive – and brilliant to have so many people at the conference asking us to tell them when the website's live and offering to help us test it. And a couple of representatives from other musuems/art galleries expressed interest in using the technical framework/platform George and Dan are building from Philo van Kemenade's designs!
+
+![Image of *A Museum of Relationships* (*AMoR*) letter page design](/images/forblog/IndividualLetterPage.jpg){:class="img-fluid"}
+
+*Image of *AMoR* letter page design*
+
+#### Hayley, Flaxman, Blake and Blake's biographers
+
+Other than the wrap-up session, that was it for day one. Day two, opened with a virtual picnic where we discussed the 3 Ps: the term patron, pets (our own and Hayley's) and politics (contemporary rather than historical). And, of course, the weather. Then we had the privilege of David Bindman's take on Flaxman's relationship with Hayley, looking at their collaborations and what each brought to the table – and how Flaxman managed Hayley's interference: with a judicious mix of firmness, explanation and flattery. This was followed by a lively sesion on Hayley and Blake, in which Mark Crosby gave us a tour of Hayley's libraries, Sarah Haggarty discussed a newly-discovered manuscript, and Jason Whittaker outlined how Blake's biographers have, over the centuries, characterised Hayley, and the relationship between the two men.
 
 We were bowled over by the level of interest. Ninety people registered and each session attracted between 35-50 attendees. Many of those who couldn’t make all the sessions watched the presentations “on demand” in Google Slides.
 
@@ -57,7 +57,7 @@ Watching the videos and being able to discuss them with the presenters – most 
 
 #### Some themes
 
-Obviously, in two half day sessions, we could only scratch the surface of all the aspects of Hayley’s life, work and circle. In particular, we missed a focus on Hayley’s work with, and support for, women writers, which we would have included had not two presenters needed to withdraw for Covid-related reasons. However, that did emerge in discussion, as did the following themes, amongst others:
+Although we covered a broad range of topics, in two half day sessions, we could, of course, only scratch the surface of all the aspects of Hayley’s life, work and networks. In particular, we missed a focus on Hayley’s work with, and support for, women writers, which we would have included had not two presenters needed to withdraw for Covid-related reasons. However, that did emerge in discussion, as did the following themes, amongst others:
 
 * Patronage: from exploring the extent to which Hayley acted as a patron, to asking what counts as patronage and interrogating the relationship between patronage and commerce?
 * Hayley’s relationships with artists: how did issues of class play out in these? And exactly *how* annoying could he be?
@@ -65,18 +65,6 @@ Obviously, in two half day sessions, we could only scratch the surface of all th
 * Hayley’s libraries: their contents; décor and how he shared his books.
 
 > "I really enjoyed #Hayley2020 .I even caught up on the video presentations I'd missed. Such a pleasure to watch enthusiastic academics sharing learning and ideas in a spirit of collaboration"
-
-![Image of *A Museum of Relationships* (*AMoR*) Omeka record](/images/forblog/Omeka-item.jpg){:class="img-fluid"}
-
-*Image of one of the *A Museum of Relationships* (*AMoR*) records in Omeka*
-
-#### *A Museum of Relationships* (*AMoR*) pilot demo
-
-It was great fun working with George Doji to show off how much work we've put into the pilot project to digitise, transcribe, annotate and link selected letters from the Fitzwilliam's archive – and brilliant to have so many people at the conference asking us to tell them when the website's live and offering to help us test it. And a couple of representatives from other musuems/art galleries expressed interest in using the technical framework/platform George and Dan are building from Philo van Kemenade's designs!
-
-![Image of *A Museum of Relationships* (*AMoR*) letter page design](/images/forblog/IndividualLetterPage.jpg){:class="img-fluid"}
-
-*Image of *AMoR* letter page design*
 
 #### More questions!
 
