@@ -1,5 +1,5 @@
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ---
-youtubeId: https://youtu.be/kXqQbBMDX2Y
+youtubeId: kXqQbBMDX2Y
 ---
