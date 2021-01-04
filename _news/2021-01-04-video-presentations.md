@@ -28,4 +28,4 @@ Hayley's classical education was very useful to Romney, who appreciated his frie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZCOYpz8Aruc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The original plan was for Romney and Hayley to produce a joint work based on Apuleius's _Cupid and Psyche_. Hayley abandoned the project in favour of his _An Essay on Painting: In Two Epistles to Mr. Romney_, which he thought would be more beneficial to his friend. Romney, however, had already made eight cartoons, of which seven survive, but not in very good condition.
+The original plan was for Romney and Hayley to produce a joint work based on Apuleius's _Cupid and Psyche_. Hayley abandoned the project in favour of his _An Essay on Painting: In Two Epistles to Mr. Romney_, which he thought would be more beneficial to his friend. Romney, however, had already made eight cartoons. Seven of these survive, althought in poor condition.
